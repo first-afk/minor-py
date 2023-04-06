@@ -1,0 +1,7 @@
+f = open('file_in_python\\pyt.txt', 'a+')
+f.write(' hello wo')
+# f.write('hello world\n')
+# f.writelines(['hello world\n', 'you are welcome \n', 'of course \n'])
+# print(f.read())
+# print(f.readline())
+# print(f.readlines()[1])
